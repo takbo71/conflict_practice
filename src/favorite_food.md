@@ -1,4 +1,7 @@
 # favorite food
 
 apple
-branch_b
+<<<<<<< HEAD
+branch_A
+=======
+>>>>>>> main
